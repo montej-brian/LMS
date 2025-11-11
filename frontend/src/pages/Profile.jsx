@@ -6,6 +6,7 @@ const Profile = () => {
         <h2 className="text-xl font-semibold mb-4">Brian Chacha</h2>
         <p className="mb-2">Role: System Administrator</p>
         <p className="mb-2">Email: chachabrian21@gmail.com</p>
+        <p className="mb-2">School: </p>
         <button className="bg-blue-600 text-white px-4 py-2 mt-4 rounded">
           Edit Profile
         </button>
