@@ -5,7 +5,8 @@ import Dashboard from "./pages/Dashboard";
 import Books from "./pages/Books";
 import Students from "./pages/Students";
 import BorrowReturn from "./pages/BorrowReturn";
-import Profile from "./pages/Profile";
+import Settings from "./pages/Settings";
+import Report from "./pages/Report";
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
             <Route path="/books" element={<Books />} />
             <Route path="/students" element={<Students />} />
             <Route path="/borrow" element={<BorrowReturn />} />
-            <Route path="/profile" element={<Profile />} />
+            <Route path="/report" element={<Report />} />
+            <Route path="/settings" element={<Settings />} />
           </Routes>
         </div>
       </div>
