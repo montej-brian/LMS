@@ -26,7 +26,7 @@ const Navbar = () => {
         {/* Left section - Logo */}
         <div className="flex items-center gap-2">
           <span className="text-xl font-bold text-blue-600 dark:text-blue-400">
-            📚 Mwalimu Library
+             Mwalimu Library
           </span>
         </div>
 

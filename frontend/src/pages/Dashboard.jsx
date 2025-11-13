@@ -7,14 +7,28 @@ const Dashboard = () => {
           <h2 className="text-xl font-semibold">Total Books</h2>
           <p className="text-3xl mt-2">254</p>
         </div>
+        
+        
         <div className="bg-white dark:bg-gray-900 p-6 rounded-lg shadow">
           <h2 className="text-xl font-semibold">Students</h2>
+          <p className="text-3xl mt-2">254</p>
+        </div>
+
+        <div className="bg-white dark:bg-gray-900 p-6 rounded-lg shadow">
+          <h2 className="text-xl font-semibold">Returned Books</h2>
           <p className="text-3xl mt-2">134</p>
         </div>
+
         <div className="bg-white dark:bg-gray-900 p-6 rounded-lg shadow">
           <h2 className="text-xl font-semibold">Borrowed Books</h2>
           <p className="text-3xl mt-2">67</p>
         </div>
+
+        <div className="bg-white dark:bg-gray-900 p-6 rounded-lg shadow">
+          <h2 className="text-xl font-semibold">Overdue Books</h2>
+          <p className="text-3xl mt-2">67</p>
+        </div>
+
       </div>
     </div>
   );
