@@ -1,0 +1,62 @@
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   frontend/package-lock.json
+	modified:   frontend/package.json
+	modified:   frontend/src/App.jsx
+	modified:   frontend/src/components/Sidebar.jsx
+	modified:   frontend/src/pages/Books.jsx
+	modified:   frontend/src/pages/BorrowReturn.jsx
+	modified:   frontend/src/pages/Dashboard.jsx
+	modified:   frontend/src/pages/Settings.jsx
+	modified:   frontend/src/pages/Students.jsx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	backend/
+	debug.txt
+	frontend/src/pages/Badges.jsx
+	frontend/src/pages/Trends.jsx
+	git_config_dump.txt
+	git_debug.txt
+	git_status.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+origin	https://github.com/montej-brian/LMS.git (fetch)
+origin	https://github.com/montej-brian/LMS.git (push)
+user.name=MONTEJ
+user.email=chachixzeedon@gmail.com
+user.name=montej
+credential.helper=store
+push.autosetupremote=true
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/montej-brian/LMS.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.vscode-merge-base=origin/main
+commit 7e6958e9c8ab23c524194a73f13c82d08a3442ca
+Author: montej <chachixzeedon@gmail.com>
+Date:   Thu Dec 25 23:23:49 2025 +0300
+
+    Update:Trends view
+
+commit 468c2c511209b848e89c4d101f63e82570d1f31c
+Author: montej <chachixzeedon@gmail.com>
+Date:   Thu Nov 13 21:57:39 2025 +0300
+
+    reports commit
+
+commit 8ea15568edd7a19277f75075030e27873b76cbed
+Author: montej <chachixzeedon@gmail.com>
+Date:   Tue Nov 11 11:00:38 2025 +0300
+
+    "second commit"
+
+commit b7139214515157ee7485c59e89791087f4e311a0
+Author: MONTEJ <chachabrian21@gmail.com>
+Date:   Tue Nov 11 10:34:46 2025 +0300
+
+    initial commit

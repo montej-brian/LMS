@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/montej-brian/LMS.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	vscode-merge-base = origin/main
+origin	https://github.com/montej-brian/LMS.git (fetch)
+origin	https://github.com/montej-brian/LMS.git (push)
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main

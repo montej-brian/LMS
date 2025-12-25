@@ -1,0 +1,5 @@
+origin	https://github.com/montej-brian/LMS.git (fetch)
+origin	https://github.com/montej-brian/LMS.git (push)
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main

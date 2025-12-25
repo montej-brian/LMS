@@ -1,0 +1,9 @@
+montej
+/home/montej/Desktop/PROJECTS/LMS
+total 8
+drwxr-xr-x. 1 montej montej  56 Dec 26 00:30 .
+drwxr-xr-x. 1 montej montej 330 Dec 19 17:25 ..
+drwxr-xr-x. 1 montej montej 190 Dec 26 00:27 backend
+-rw-r--r--. 1 montej montej  41 Dec 26 00:30 debug.txt
+drwxr-xr-x. 1 montej montej 296 Nov 11 10:43 frontend
+drwxr-xr-x. 1 montej montej 148 Dec 26 00:29 .git

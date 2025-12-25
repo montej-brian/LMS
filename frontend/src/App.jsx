@@ -7,6 +7,8 @@ import Students from "./pages/Students";
 import BorrowReturn from "./pages/BorrowReturn";
 import Settings from "./pages/Settings";
 import Report from "./pages/Report";
+import Trends from "./pages/Trends";
+import Badges from "./pages/Badges";
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
             <Route path="/books" element={<Books />} />
             <Route path="/students" element={<Students />} />
             <Route path="/borrow" element={<BorrowReturn />} />
+            <Route path="/trends" element={<Trends />} />
+            <Route path="/badges" element={<Badges />} />
             <Route path="/report" element={<Report />} />
             <Route path="/settings" element={<Settings />} />
           </Routes>
