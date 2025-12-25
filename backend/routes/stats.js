@@ -3,6 +3,7 @@ const router = express.Router();
 const Book = require('../models/Book');
 const Student = require('../models/Student');
 const Transaction = require('../models/Transaction');
+const sequelize = require('../database');
 const { Op } = require('sequelize');
 
 router.get('/summary', async (req, res) => {

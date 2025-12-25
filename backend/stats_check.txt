@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   101  100   101    0     0   8834      0 --:--:-- --:--:-- --:--:--  9181
+{"totalBooks":5,"totalStudents":3,"borrowedBooks":2,"overdueBooks":2,"lostBooks":0,"returnedBooks":0}

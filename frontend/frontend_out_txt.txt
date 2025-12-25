@@ -1,0 +1,10 @@
+nohup: ignoring input
+
+> library-management-system@0.0.0 dev
+> vite
+
+
+  VITE v7.2.2  ready in 3168 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose

@@ -1,0 +1,26 @@
+Diagnostic started at Fri Dec 26 12:49:29 AM EAT 2025
+Current user: montej
+Current directory: /home/montej/Desktop/PROJECTS/LMS/backend
+Directory content:
+total 188
+drwxr-xr-x. 1 montej montej    310 Dec 26 00:49 .
+drwxr-xr-x. 1 montej montej    412 Dec 26 00:39 ..
+-rw-r--r--. 1 montej montej    232 Dec 26 00:39 database.js
+-rw-r--r--. 1 montej montej  28672 Dec 26 00:39 database.sqlite
+-rw-r--r--. 1 montej montej    155 Dec 26 00:49 debug_log.txt
+-rw-r--r--. 1 montej montej    476 Dec 26 00:49 diag.sh
+drwxr-xr-x. 1 montej montej     84 Dec 26 00:39 models
+drwxr-xr-x. 1 montej montej   4572 Dec 26 00:39 node_modules
+-rw-r--r--. 1 montej montej    761 Dec 26 00:45 out.log
+-rw-r--r--. 1 montej montej    739 Dec 26 00:42 out.txt
+-rw-r--r--. 1 montej montej    435 Dec 26 00:39 package.json
+-rw-r--r--. 1 montej montej 119678 Dec 26 00:39 package-lock.json
+drwxr-xr-x. 1 montej montej    106 Dec 26 00:39 routes
+-rw-r--r--. 1 montej montej   2368 Dec 26 00:39 seed.js
+-rw-r--r--. 1 montej montej    739 Dec 26 00:41 server_error.log
+-rw-r--r--. 1 montej montej   1037 Dec 26 00:39 server.js
+-rw-r--r--. 1 montej montej    785 Dec 26 00:42 test_db.js
+Testing write permissions:
+Write successful
+Checking node version:
+v22.21.0
